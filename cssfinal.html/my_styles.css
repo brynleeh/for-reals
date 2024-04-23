@@ -1,0 +1,19 @@
+.custom_background {
+    background-color: rgb(255, 204, 211) !important;
+}
+.custom_text {
+    color: rgb(255, 204, 211) !important;
+}
+
+.list_font{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.list_attractions{
+    font-style: italic;
+    color: white;
+}
+
+.center{
+    text-align: center;
+}
